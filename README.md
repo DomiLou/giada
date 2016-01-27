@@ -45,7 +45,6 @@ http://www.giadamusic.com/documentation
 
 Found a typo or a terrible mistake? Feel free to clone the [website repository](https://github.com/monocasual/giada-www) and send us your pull requests.
 
-## Build Giada from source
 
 We do our best to make the compilation process as simple as possible. You can find all the information in the [official docs page](http://giadamusic.com/documentation/show/compiling-from-source).
 
